@@ -1,0 +1,4 @@
+baseURL = "https://goruby.github.io/"
+languageCode = "en-us"
+title = "GoRuby - A Ruby interpreter written in Golang"
+theme = "beautifulhugo"
